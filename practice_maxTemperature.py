@@ -19,3 +19,5 @@ results = maxTemps.collect();
 
 for result in results:
     print(result[0] + "\t{:.2f}F".format(result[1]))
+    
+    
